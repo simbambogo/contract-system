@@ -103,6 +103,12 @@
                   <p>Top Navigation</p>
                 </a>
               </li>
+                <li class="nav-item">
+                    <a href="{{route('contract')}}" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Contract Management</p>
+                    </a>
+                </li>
             </ul>
           </li>
         </ul>
